@@ -7,4 +7,6 @@
   <project name="xxseva44/LGE_proprietary_vendor" path="vendor/lge" remote="github" revision="Android_4.4" />
   <project name="xxseva44/LGE_Device_common" path="device/lge/common" remote="github" revision="Raft_4.4" />
   <project name="stendro/msm8996_lge_kernel" path="kernel/lge/msm8996" remote="github" revision="mk2k-4.4" />
+  <project name="stendro/android_hardware_broadcom_fm" path="hardware/broadcom/fm" remote="github" revision="lge-to-4.4" />
+  <project name="stendro/android_hardware_broadcom_libbt" path="hardware/broadcom/libbt" remote="github" revision="lge-to-4.4" />
 </manifest>
